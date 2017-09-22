@@ -1,0 +1,218 @@
+
+@font-face {
+	font-family: SF Archery Black SC;
+	src: url('Fonts/SF_Archery_Black_SC.ttf');
+}
+
+body {
+	font-family: SF Archery Black SC;
+	background-color: black;
+	color: white;
+	height: 100%;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	font-size: 18px;
+}
+
+ul {
+	font-size: 18px;
+}
+
+footer {
+	width: 100%;
+	height: 88px;
+	background-color: black;
+}
+
+a.anchor {
+	margin-bottom: 30px;
+}
+
+p.member {
+	display: none;
+    font-size: 20px;
+    line-height: 220px;
+    text-align: center;
+}
+
+div.bio {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+div.wrapper {
+	min-height: 100%;
+	margin-bottom: -88px;
+}
+
+img.name {
+	margin-left: 150px;
+}
+
+img.album {
+	margin-left: 20px;
+}
+
+img.members {
+	margin-left: 150px;
+	margin-top: 0px;
+}
+
+h2.album {
+	margin-left: 20px;
+}
+
+a:visited {
+	color: white;
+}
+
+area:active {
+	outline: none;
+}
+
+area:visited {
+	outline: none;
+}
+
+area:link {
+	outline: none;
+}
+
+#till {
+	background: url('Images/rammstein_till_lindemann.jpg');
+    height: 220px;
+    width: 175px;
+    margin: 0;
+}
+
+#till:hover #till-p{
+    display: block;
+    background: rgba(0,0,0,0.8);
+    cursor: pointer;
+}
+
+#christoph {
+	background: url('Images/rammstein_christoph_schneider.jpg');
+    height: 220px;
+    width: 160px;
+    margin: 0;
+}
+
+#christoph:hover #christoph-p{
+    display: block;
+    background: rgba(0,0,0,0.8);
+    cursor: pointer;
+}
+
+#christian {
+	background: url('Images/rammstein_christian_lorenz.jpg');
+    height: 220px;
+    width: 160px;
+    margin: 0;
+}
+
+#christian:hover #christian-p{
+    display: block;
+    background: rgba(0,0,0,0.8);
+    cursor: pointer;
+}
+
+#oliver {
+	background: url('Images/rammstein_oliver_riedel.jpg');
+    height: 220px;
+    width: 175px;
+    margin: 0;
+}
+
+#oliver:hover #oliver-p{
+    display: block;
+    background: rgba(0,0,0,0.8);
+    cursor: pointer;
+}
+
+#richard {
+	background: url('Images/rammstein_richard_kruspe.jpg');
+    height: 220px;
+    width: 160px;
+    margin: 0;
+}
+
+#richard:hover #richard-p{
+    display: block;
+    background: rgba(0,0,0,0.8);
+    cursor: pointer;
+}
+
+#paul {
+	background: url('Images/rammstein_paul_landers.jpg');
+    height: 220px;
+    width: 168px;
+    margin: 0;
+}
+
+#paul:hover #paul-p{
+    display: block;
+    background: rgba(0,0,0,0.8);
+    cursor: pointer;
+}
+
+#members-table {
+	margin-left: 150px;
+}
+
+#discography {
+	font-size: 40px;
+	margin-left: 150px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+#history {
+	font-size: 18px;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#history-1 {
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+#history-2 {
+	margin-top: 100px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+#history-p {
+	margin-top: 100px;
+}
+
+#img-member {
+	margin-right: 25px;
+}
+
+#list-herzeleid {
+	width: 350px;
+	margin-left: 50px;
+}
+
+#footer-table {
+	width: 100%;
+	font-size: 20px;
+}
+
+#left-td {
+	left: 50px;
+}
+
+#right-td {
+	right: 50px;
+}
